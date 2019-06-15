@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/phshena/AZ400-DevOps-Lab-20190615/_apis/build/status/DevOps-Lab-20190615?branchName=master)](https://dev.azure.com/phshena/AZ400-DevOps-Lab-20190615/_build/latest?definitionId=2&branchName=master)
 # LINE Login Example
 <img src='http://arock.blob.core.windows.net/blogdata201702/14-215656-e2740e6c-82bb-489b-9792-a271086e7e4e.png' />
 <div class="panel-body">
